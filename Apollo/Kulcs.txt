@@ -1,0 +1,2 @@
+Admin: -username: Admin -password: Admin
+Dolgozo: -username: Dolgozo -password: Dolgozo
